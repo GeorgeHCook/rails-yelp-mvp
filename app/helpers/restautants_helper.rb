@@ -1,0 +1,2 @@
+module RestautantsHelper
+end
